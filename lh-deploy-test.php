@@ -6,5 +6,5 @@ Version: 1.0
 */
 
 add_shortcode('lh_deploy_test', function () {
-    return '<p><strong>Deploy v1 działa.</strong></p>';
+    return '<p><strong>Deploy v2 działa.</strong></p>';
 });
